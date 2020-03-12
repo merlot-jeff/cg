@@ -40,7 +40,7 @@
     "jasmine": "^3.5.0",
     "jasmine-spec-reporter": "^4.2.1",
     "nyc": "^11.3.0",
-    "open": "^0.0.5",
+    "open": "^7.0.3",
     "yargs": "^10.1.2"
   },
   "scripts": {
